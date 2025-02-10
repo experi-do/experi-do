@@ -6,9 +6,11 @@
 <h2 align="center">👋 Hi, I'm experi-do!</h2>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about AI, Autonumous Vehicle Technology, and Backend development. 🚀  <br>
+  Welcome to my GitHub profile! I'm passionate about AI, Autonomous Vehicle Technology, and Backend development. 🚀  <br>
   Feel free to explore my repositories and connect with me! 😃
 </p>
+
+<br>
 
 ---
 
@@ -18,6 +20,8 @@
 - 💡 Interested in **Autonomous Driving**, **Recommendation Systems**, and **Computer Vision**  
 - 🚀 Currently building **AI-powered restaurant recommendations** etc.
 
+<br>
+
 ---
 
 ## 👨‍🎓 **Education & Experience**
@@ -26,6 +30,8 @@
 - 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024 - present)  
 - 👥 **Founder and Operator of SMYD** (2022 - 2024)  
 - 🏅 **UMC 5th** (2023)
+
+<br>
 
 ---
 
@@ -39,6 +45,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
+<br>
+
 ---
 
 ## 📊 **GitHub Stats**
@@ -47,12 +55,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=experi-do&layout=compact&theme=radical" height="165">
 </p>
 
+<br>
+
 ---
 
 ## 🌱 **Currently Learning**
 - ✅ **Graph Neural Networks (GNN)**  
 - ✅ **MLOps & Model Deployment**  
 - ✅ **Few-Shot Learning & Adversarial Learning**  
+
+<br>
 
 ---
 
@@ -62,7 +74,7 @@
 - 📝 **Co-author of the paper "Development of unmanned reconnaissance system for wire fence", 2023**  
   - published in the *Proceedings of the Korean Society of Information Processing*
 
----
+<br>
 
 <!-- 방문 카운트 -->
 <p align="left">
