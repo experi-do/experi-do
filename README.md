@@ -12,6 +12,14 @@
 
 ---
 
+## 👋 **About Me**
+- 🔥 Passionate about AI, ML, and backend development  
+- 📚 Always learning new technologies and frameworks  
+- 💡 Interested in **MLOps**, **Recommendation Systems**, and **Computer Vision**  
+- 🚀 Currently building **AI-powered restaurant recommendations**  
+
+---
+
 ## 🔥 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -32,24 +40,10 @@
 
 ---
 
-## 📌 **Pinned Projects**
-<p align="center">
-  <a href="https://github.com/experi-do/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=experi-do&repo=project1&theme=radical">
-  </a>
-  <a href="https://github.com/experi-do/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=experi-do&repo=project2&theme=radical">
-  </a>
-</p>
-
----
-
-## 💬 **Let's Connect!**
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"></a>
-</p>
+## 🌱 **Currently Learning**
+- ✅ **Graph Neural Networks (GNN)**  
+- ✅ **MLOps & Model Deployment**  
+- ✅ **Few-Shot Learning & Contrastive Learning**  
 
 ---
 
