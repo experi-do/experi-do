@@ -19,6 +19,7 @@
 - 📚 Always learning new technologies and frameworks  
 - 💡 Interested in **Autonomous Driving**, **Recommendation Systems**, and **Computer Vision**  
 - 🚀 Currently building **AI-powered restaurant recommendations** etc.
+- - 📧 Email me at [experijdh@g.hongik.ac.kr](mailto:experijdh@g.hongik.ac.kr)
 
 <br>
 
