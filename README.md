@@ -22,7 +22,7 @@
 
 ## 👨‍🎓 **Education & Experience**
 - 🎓 **Currently a 4th-year student at Hongik University** (2020 - present)  
-- 👨‍💻 **Undergraduate Researcher at AIS Lab** (2024 - present)  
+- 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024 - present)  
 - 👥 **Founder and Operator of SMYD** (2022 - 2024)  
 - 🏅 **UMC 5th** (2023)
 
