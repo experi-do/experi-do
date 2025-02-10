@@ -1,5 +1,6 @@
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=70&desc=experi-do's%20GitHub&descAlign=60&descAlignY=60)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=70&desc=experi-do's%20GitHub&descAlign=60&descAlignY=60" width="100%">
+</p>
 
 <!-- 인사말 -->
 <h2 align="center">👋 Hi, I'm experi-do!</h2>
