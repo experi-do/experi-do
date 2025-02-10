@@ -46,17 +46,15 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 ### Autonomous Driving
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autoware-00A2E8?style=flat&logo=autoware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Carla-0079B6?style=flat&logo=carla&logoColor=white"/>
   <img src="https://img.shields.io/badge/Path%20Planning-F1C232?style=flat&logo=pathplanning&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-FF7F50?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-006F3F?style=flat&logo=simulink&logoColor=white"/>
 </p>
 
 ### Artificial Intelligence (AI)
@@ -76,7 +74,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-FF9C00?style=flat&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3E4E63?style=flat&logo=plotly&logoColor=white"/>
 </p>
 
 
