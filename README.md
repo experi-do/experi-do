@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=experi-do&textBg=false&reversal=false)
-
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=70&desc=experi-do's%20GitHub&descAlign=60&descAlignY=60)
 
