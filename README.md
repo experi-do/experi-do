@@ -6,7 +6,7 @@
 <h2 align="center">👋 Hi, I'm experi-do!</h2>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about AI, machine learning, and backend development. 🚀  <br>
+  Welcome to my GitHub profile! I'm passionate about AI, Autonumous Vehicle Technology, and Backend development. 🚀  <br>
   Feel free to explore my repositories and connect with me! 😃
 </p>
 
@@ -22,6 +22,7 @@
 
 ## 👨‍🎓 **Education & Experience**
 - 🎓 **Currently a 4th-year student at Hongik University** (2020 - present)  
+  - **Major: Computer Engineering (CE)**
 - 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024 - present)  
 - 👥 **Founder and Operator of SMYD** (2022 - 2024)  
 - 🏅 **UMC 5th** (2023)
@@ -57,7 +58,7 @@
 
 ## 📜 **My Achievements**
 - 🏆 **3rd place in the Autonomous Driving AI Algorithm Development Challenge, 2024**
-- 📱 **Deployed iOS app "Homeat", 2024**
+- 📱 **Deployed iOS App "Homeat", 2024**
 - 📝 **Co-author of the paper "Development of unmanned reconnaissance system for wire fence", 2023**  
   - published in the *Proceedings of the Korean Society of Information Processing*
 
