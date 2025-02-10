@@ -40,14 +40,45 @@
 ---
 
 ## 🔥 **Tech Stack**
+
+### Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+</p>
+
+### Autonomous Driving
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autoware-00A2E8?style=flat&logo=autoware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Carla-0079B6?style=flat&logo=carla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Path%20Planning-F1C232?style=flat&logo=pathplanning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF7F50?style=flat&logo=opencv&logoColor=white"/>
+</p>
+
+### Artificial Intelligence (AI)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-00008B?style=flat&logo=data:image/png;base64,iVBORw0KGgo..." />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-00008B?style=flat&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3C6A?style=flat&logo=opencv&logoColor=white"/>
 </p>
+
+### Data Science & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-FF9C00?style=flat&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3E4E63?style=flat&logo=plotly&logoColor=white"/>
+</p>
+
 
 <br>
 
