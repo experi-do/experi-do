@@ -29,8 +29,11 @@
 - 🎓 **Currently a 4th-year student at Hongik University** (2020 - present)  
   - **Major: Computer Engineering (CE)**
 - 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024 - present)  
-- 👥 **Founder and Operator of SMYD** (2022 - 2024)  
+- 👥 **Founder and Operator of SMYD** (2022 - 2024)
+  - Autonomous Driving & Robotics Research Union Club
 - 🏅 **UMC 5th** (2023)
+- 🛡️ **Participant in the 2024 Information Security Talent Development Program in Collaboration with Microsoft** (2024)
+
 
 <br>
 
