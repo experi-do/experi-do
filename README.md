@@ -90,6 +90,14 @@
 <br>
 
 ---
+## 🚀 **Ongoing Projects**
+- ✅ **Yumst**  
+- ✅ **LG Aimers**  
+- ✅ **AIS Lab**  
+
+<br>
+
+---
 
 ## 🌱 **Currently Learning**
 - ✅ **Graph Neural Networks (GNN)**  
