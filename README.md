@@ -80,16 +80,6 @@
 <br>
 
 ---
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=experi-do&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=experi-do&layout=compact&theme=radical" height="165">
-</p>
-
-<br>
-
----
 ## 🚀 **Ongoing Projects**
 - ✅ **Yumst**  
 - ✅ **LG Aimers**  
@@ -113,6 +103,15 @@
 - 📱 **Deployed iOS App "Homeat", 2024**
 - 📝 **Co-author of the paper "Development of unmanned reconnaissance system for wire fence", 2023**  
   - published in the *Proceedings of the Korean Society of Information Processing*
+
+<br>
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=experi-do&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=experi-do&layout=compact&theme=radical" height="165">
+</p>
 
 <br>
 
