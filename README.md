@@ -33,6 +33,7 @@
   - Autonomous Driving & Robotics Research Union Club
 - 🏅 **UMC 5th** (2023)
 - 🛡️ **Participant in the 2024 Information Security Talent Development Program in Collaboration with Microsoft** (2024)
+- 🎯 **LG Aimers 6th Certificated** (2025)
 
 
 <br>
@@ -82,7 +83,6 @@
 ---
 ## 🚀 **Ongoing Projects**
 - ✅ **Yumst**  
-- ✅ **LG Aimers**  
 - ✅ **AIS Lab**  
 
 <br>
