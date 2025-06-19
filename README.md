@@ -28,7 +28,7 @@
 ## 👨‍🎓 **Education & Experience**
 - 🎓 **Currently a 4th-year student at Hongik University** (2020 - present)  
   - **Major: Computer Engineering (CE)**
-- 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024 - present)  
+- 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024.07 - 2025.06)  
 - 👥 **Founder and Operator of SMYD** (2022 - 2024)
   - Autonomous Driving & Robotics Research Union Club
 - 🏅 **UMC 5th** (2023)
@@ -81,9 +81,16 @@
 <br>
 
 ---
-## 🚀 **Ongoing Projects**
-- ✅ **Yumst**  
-- ✅ **AIS Lab**  
+## 🚀 **Research & Publications**
+- ✅ **Prediction of Rotator Cuff Retear Risk After Arthroscopic Rotator Cuff Repair and AI-Based Personalized Rehabilitation**  
+  - In collaboration with **The Catholic University of St. Mary's Hospital**
+  
+- ✅ **Applicability of Machine Learning for TDMA Resource Allocation Optimization in Tactical Data Links**  
+  - In collaboration with **Agency for Defense Development (ADD)**
+  
+- ✅ **Fine-Grained Classification of Fossilized Pollen via Meta-Learning**
+
+    
 
 <br>
 
