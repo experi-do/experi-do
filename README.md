@@ -15,11 +15,13 @@
 ---
 
 ## 👋 **About Me**
-- 🔥 Passionate about AI, ML, and BE development  
+- 🔥 Passionate about AI, ML, and Backend Development  
 - 📚 Always learning new technologies and frameworks  
 - 💡 Interested in **Autonomous Driving**, **Recommendation Systems**, and **Computer Vision**  
-- 🚀 Currently building **AI-powered restaurant recommendations** etc.
-- 📧 Email me at [experijdh@g.hongik.ac.kr](mailto:experijdh@g.hongik.ac.kr)
+- 🚀 Currently building **AI-powered restaurant recommendation systems**, and more  
+- 📧 Email me at [experijdh@g.hongik.ac.kr](mailto:experijdh@g.hongik.ac.kr)  
+- 📂 Check out my portfolio: [jungdohyun-portfolio](https://versed-vicuna-37f.notion.site/jungdohyun-portfolio)
+
 
 <br>
 
