@@ -3,7 +3,7 @@
 </p>
 
 <!-- 인사말 -->
-<h2 align="center">👋 Hi, I'm experi-do!</h2>
+<h2 align="center">👋 Hi, I'm DoHyun Jung(experi-do)!</h2>
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about AI, Autonomous Vehicle Technology, and Backend development. 🚀  <br>
@@ -30,7 +30,7 @@
 ## 👨‍🎓 **Education & Experience**
 - 🎓 **Currently a 4th-year student at Hongik University** (2020 - present)  
   - **Major: Computer Engineering (CE)**
-- 👨‍💻 **Undergraduate Student at [AIS Lab](https://ais.hongik.ac.kr/home)** (2024.07 - 2025.06)  
+- 👨‍💻 **Undergraduate Student at [AIS Lab](https://www.ais.cau.ac.kr/)** (2024.07 - 2025.06)  
 - 👥 **Founder and Operator of SMYD** (2022 - 2024)
   - Autonomous Driving & Robotics Research Union Club
 - 🏅 **UMC 5th** (2023)
