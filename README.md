@@ -92,6 +92,20 @@
   
 - ✅ **Fine-Grained Classification of Fossilized Pollen via Meta-Learning**
 
+- ✅ **Development of unmanned reconnaissance system for wire fence**
+   - published in the *Proceedings of the Korean Society of Information Processing(2023)*
+
+<br>
+
+---
+## 🧠 Patents
+
+- 📌 **Apparatus and Method for Predicting Clinical Indicators of Patients Using Artificial Intelligence**  
+  *Patent pending (under examination)*
+
+- 📌 **Unmanned Surveillance System for Wire Fence**  
+  *Published Patent No. 10-2025-0074952 (KIPO)*
+
     
 
 <br>
