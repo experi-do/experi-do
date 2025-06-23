@@ -103,7 +103,7 @@
 - 📌 **Apparatus and Method for Predicting Clinical Indicators of Patients Using Artificial Intelligence**  
   *Patent pending (under examination)*
 
-- 📌 **Unmanned Surveillance System for Wire Fence**  
+- 📌 **Barbed Wire Unmanned Reconnaissance system**  
   *Published Patent No. 10-2025-0074952 (KIPO)*
 
     
