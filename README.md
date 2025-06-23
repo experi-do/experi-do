@@ -104,7 +104,7 @@
   - *Patent pending (under examination)*
 
 - 📌 **Barbed Wire Unmanned Reconnaissance system**
-  - *Published Korean Patent Application No. 10-2025-0074952 ([View on KIPRIS](https://doi.org/10.8080/1020230161935))*
+  - *Published Patent No. 10-2025-0074952 (KIPO) ([View on KIPRIS](https://doi.org/10.8080/1020230161935))*
 
 
     
