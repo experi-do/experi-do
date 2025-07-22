@@ -90,7 +90,7 @@
 - ✅ **Applicability of Machine Learning for TDMA Resource Allocation Optimization in Tactical Data Links**  
   - In collaboration with **Agency for Defense Development (ADD)**
   
-- ✅ **PETAL: Projection-based Episodic Tuning for Adaptive Learning in Fine-Grained Few-Shot Pollen Fossil Classification**
+- ✅ **PETAL: Projection-based Episodic Training for Adaptive Learning in Fine-Grained Few-Shot Pollen Fossil Classification**
 
 - ✅ **Development of unmanned reconnaissance system for wire fence**
    - published in the *Proceedings of the Korean Society of Information Processing(2023)*
