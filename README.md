@@ -15,7 +15,7 @@
 ---
 
 ## 👋 **About Me**
-- **AI-native Developer at SK AX**(2026.01~)
+- ✨ **AI-native Developer at SK AX**(2026.01~)
 - 🔥 Passionate about AI, ML, and Backend Development  
 - 📚 Always learning new technologies and frameworks  
 - 💡 Interested in **Autonomous Driving**, **Recommendation Systems**, and **Computer Vision**  
