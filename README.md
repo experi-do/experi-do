@@ -19,7 +19,6 @@
 - 🔥 Passionate about AI, ML, and Backend Development  
 - 📚 Always learning new technologies and frameworks  
 - 💡 Interested in **Autonomous Driving**, **Recommendation Systems**, and **Computer Vision**  
-- 🚀 Currently building **AI-powered restaurant recommendation systems**, and more  
 - 📧 Email me at [experijdh@g.hongik.ac.kr](mailto:experijdh@g.hongik.ac.kr)  
 - 📂 Check out my portfolio: [jungdohyun-portfolio](https://versed-vicuna-37f.notion.site/jungdohyun-portfolio)
 
@@ -37,6 +36,7 @@
 - 🏅 **UMC 5th** (2023)
 - 🛡️ **Participant in the 2024 Information Security Talent Development Program in Collaboration with Microsoft** (2024)
 - 🎯 **LG Aimers 6th Certificated** (2025)
+- 🎯 **SKALA 2nd Certificated** (2025)
 
 
 <br>
